@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schemaVersion": "1.1.0",
-    "generatedAt": "2026-02-20T22:55:42.876440Z",
+    "generatedAt": "2026-02-20T23:08:43.737302Z",
     "source": "aggregated_observations",
     "weekStart": "2026-02-16",
     "weekEnd": "2026-02-22",
@@ -62,7 +62,7 @@
       "productId": "monster_energy_500ml",
       "status": "unavailable",
       "currency": "EUR",
-      "lastUpdated": "2026-02-20T22:55:42.876440Z",
+      "lastUpdated": "2026-02-20T23:08:43.737302Z",
       "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026)."
     },
     {
@@ -71,7 +71,7 @@
       "productId": "monster_energy_500ml",
       "status": "unavailable",
       "currency": "EUR",
-      "lastUpdated": "2026-02-20T22:55:42.876440Z",
+      "lastUpdated": "2026-02-20T23:08:43.737302Z",
       "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026)."
     },
     {
@@ -80,7 +80,7 @@
       "productId": "monster_energy_500ml",
       "status": "unavailable",
       "currency": "EUR",
-      "lastUpdated": "2026-02-20T22:55:42.876440Z",
+      "lastUpdated": "2026-02-20T23:08:43.737302Z",
       "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026)."
     },
     {
@@ -89,7 +89,7 @@
       "productId": "monster_energy_500ml",
       "status": "unavailable",
       "currency": "EUR",
-      "lastUpdated": "2026-02-20T22:55:42.876440Z",
+      "lastUpdated": "2026-02-20T23:08:43.737302Z",
       "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026)."
     },
     {
@@ -98,7 +98,7 @@
       "productId": "monster_energy_500ml",
       "status": "unavailable",
       "currency": "EUR",
-      "lastUpdated": "2026-02-20T22:55:42.876440Z",
+      "lastUpdated": "2026-02-20T23:08:43.737302Z",
       "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026)."
     }
   ],
