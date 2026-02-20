@@ -1,11 +1,11 @@
 {
   "metadata": {
     "schemaVersion": "1.1.0",
-    "generatedAt": "2026-02-20T18:45:00Z",
-    "source": "manual_verified_kaufda",
+    "generatedAt": "2026-02-20T22:50:37.360050Z",
+    "source": "aggregated_observations",
     "weekStart": "2026-02-16",
     "weekEnd": "2026-02-22",
-    "notes": "Discounter-MVP in DE: aktuelle Monster-Energy-Angebote, manuell verifiziert.",
+    "notes": "Generated from retailer observations. Offer and regular prices aggregated per retailer.",
     "sources": [
       "https://www.kaufda.de/Angebote/Aldi-Nord/Monster-Energy",
       "https://www.kaufda.de/Angebote/Aldi-Sued/Monster-Energy",
@@ -62,8 +62,20 @@
       "productId": "monster_energy_500ml",
       "status": "unavailable",
       "currency": "EUR",
-      "lastUpdated": "2026-02-20T18:45:00Z",
-      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026)."
+      "lastUpdated": "2026-02-20T10:00:00.000Z",
+      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026).",
+      "regularPriceMinCents": 149,
+      "regularPriceMaxCents": 149,
+      "regularPriceLastVerifiedAt": "2026-02-20T10:00:00.000Z",
+      "regularPriceConfidence": "low",
+      "regularPriceSource": "https://example.org/lidl/manual",
+      "regularPriceObservations": [
+        {
+          "priceCents": 149,
+          "capturedAt": "2026-02-20T10:00:00.000Z",
+          "source": "https://example.org/lidl/manual"
+        }
+      ]
     },
     {
       "id": "live_aldi_nord_kw8_2026",
@@ -71,8 +83,20 @@
       "productId": "monster_energy_500ml",
       "status": "unavailable",
       "currency": "EUR",
-      "lastUpdated": "2026-02-20T18:45:00Z",
-      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026)."
+      "lastUpdated": "2026-02-20T10:10:00.000Z",
+      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026).",
+      "regularPriceMinCents": 159,
+      "regularPriceMaxCents": 159,
+      "regularPriceLastVerifiedAt": "2026-02-20T10:10:00.000Z",
+      "regularPriceConfidence": "low",
+      "regularPriceSource": "https://example.org/aldi-nord/manual",
+      "regularPriceObservations": [
+        {
+          "priceCents": 159,
+          "capturedAt": "2026-02-20T10:10:00.000Z",
+          "source": "https://example.org/aldi-nord/manual"
+        }
+      ]
     },
     {
       "id": "live_aldi_sued_kw8_2026",
@@ -80,8 +104,20 @@
       "productId": "monster_energy_500ml",
       "status": "unavailable",
       "currency": "EUR",
-      "lastUpdated": "2026-02-20T18:45:00Z",
-      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026)."
+      "lastUpdated": "2026-02-20T10:20:00.000Z",
+      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026).",
+      "regularPriceMinCents": 149,
+      "regularPriceMaxCents": 149,
+      "regularPriceLastVerifiedAt": "2026-02-20T10:20:00.000Z",
+      "regularPriceConfidence": "low",
+      "regularPriceSource": "https://example.org/aldi-sued/manual",
+      "regularPriceObservations": [
+        {
+          "priceCents": 149,
+          "capturedAt": "2026-02-20T10:20:00.000Z",
+          "source": "https://example.org/aldi-sued/manual"
+        }
+      ]
     },
     {
       "id": "live_penny_kw8_2026",
@@ -89,8 +125,20 @@
       "productId": "monster_energy_500ml",
       "status": "unavailable",
       "currency": "EUR",
-      "lastUpdated": "2026-02-20T18:45:00Z",
-      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026)."
+      "lastUpdated": "2026-02-20T10:30:00.000Z",
+      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026).",
+      "regularPriceMinCents": 155,
+      "regularPriceMaxCents": 155,
+      "regularPriceLastVerifiedAt": "2026-02-20T10:30:00.000Z",
+      "regularPriceConfidence": "low",
+      "regularPriceSource": "https://example.org/penny/manual",
+      "regularPriceObservations": [
+        {
+          "priceCents": 155,
+          "capturedAt": "2026-02-20T10:30:00.000Z",
+          "source": "https://example.org/penny/manual"
+        }
+      ]
     },
     {
       "id": "live_netto_kw8_2026",
@@ -98,8 +146,20 @@
       "productId": "monster_energy_500ml",
       "status": "unavailable",
       "currency": "EUR",
-      "lastUpdated": "2026-02-20T18:45:00Z",
-      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026)."
+      "lastUpdated": "2026-02-20T10:40:00.000Z",
+      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026).",
+      "regularPriceMinCents": 145,
+      "regularPriceMaxCents": 145,
+      "regularPriceLastVerifiedAt": "2026-02-20T10:40:00.000Z",
+      "regularPriceConfidence": "low",
+      "regularPriceSource": "https://example.org/netto/manual",
+      "regularPriceObservations": [
+        {
+          "priceCents": 145,
+          "capturedAt": "2026-02-20T10:40:00.000Z",
+          "source": "https://example.org/netto/manual"
+        }
+      ]
     }
   ],
   "regions": [],
