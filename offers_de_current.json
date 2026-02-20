@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "schemaVersion": "1.1.0",
+    "generatedAt": "2026-02-20T18:45:00Z",
+    "source": "manual_verified_kaufda",
+    "weekStart": "2026-02-16",
+    "weekEnd": "2026-02-22",
+    "notes": "Discounter-MVP in DE: aktuelle Monster-Energy-Angebote, manuell verifiziert.",
+    "sources": [
+      "https://www.kaufda.de/Angebote/Aldi-Nord/Monster-Energy",
+      "https://www.kaufda.de/Angebote/Aldi-Sued/Monster-Energy",
+      "https://www.kaufda.de/Angebote/Lidl/Monster-Energy",
+      "https://www.kaufda.de/Angebote/Penny-Markt/Monster-Energy",
+      "https://www.kaufda.de/Angebote/Netto-Marken-Discount/Monster-Energy"
+    ]
+  },
+  "products": [
+    {
+      "id": "monster_energy_500ml",
+      "brand": "Monster",
+      "name": "Energy 500ml",
+      "unit": "500 ml Dose"
+    }
+  ],
+  "retailers": [
+    {
+      "id": "lidl_de",
+      "name": "Lidl",
+      "type": "discounter",
+      "countryCode": "DE",
+      "note": "Angebote koennen regional abweichen."
+    },
+    {
+      "id": "aldi_nord",
+      "name": "Aldi Nord",
+      "type": "discounter",
+      "countryCode": "DE"
+    },
+    {
+      "id": "aldi_sued",
+      "name": "Aldi Sued",
+      "type": "discounter",
+      "countryCode": "DE"
+    },
+    {
+      "id": "penny_de",
+      "name": "Penny",
+      "type": "discounter",
+      "countryCode": "DE"
+    },
+    {
+      "id": "netto_de",
+      "name": "Netto Marken-Discount",
+      "type": "discounter",
+      "countryCode": "DE"
+    }
+  ],
+  "offers": [
+    {
+      "id": "live_lidl_kw8_2026",
+      "retailerId": "lidl_de",
+      "productId": "monster_energy_500ml",
+      "status": "unavailable",
+      "currency": "EUR",
+      "lastUpdated": "2026-02-20T18:45:00Z",
+      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026)."
+    },
+    {
+      "id": "live_aldi_nord_kw8_2026",
+      "retailerId": "aldi_nord",
+      "productId": "monster_energy_500ml",
+      "status": "unavailable",
+      "currency": "EUR",
+      "lastUpdated": "2026-02-20T18:45:00Z",
+      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026)."
+    },
+    {
+      "id": "live_aldi_sued_kw8_2026",
+      "retailerId": "aldi_sued",
+      "productId": "monster_energy_500ml",
+      "status": "unavailable",
+      "currency": "EUR",
+      "lastUpdated": "2026-02-20T18:45:00Z",
+      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026)."
+    },
+    {
+      "id": "live_penny_kw8_2026",
+      "retailerId": "penny_de",
+      "productId": "monster_energy_500ml",
+      "status": "unavailable",
+      "currency": "EUR",
+      "lastUpdated": "2026-02-20T18:45:00Z",
+      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026)."
+    },
+    {
+      "id": "live_netto_kw8_2026",
+      "retailerId": "netto_de",
+      "productId": "monster_energy_500ml",
+      "status": "unavailable",
+      "currency": "EUR",
+      "lastUpdated": "2026-02-20T18:45:00Z",
+      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026)."
+    }
+  ],
+  "regions": [],
+  "storeLocations": []
+}
