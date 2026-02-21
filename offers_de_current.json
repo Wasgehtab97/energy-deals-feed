@@ -1,18 +1,27 @@
 {
   "metadata": {
     "schemaVersion": "1.1.0",
-    "generatedAt": "2026-02-20T23:34:59.467822Z",
+    "generatedAt": "2026-02-21T00:02:50.338837Z",
     "source": "aggregated_observations",
     "weekStart": "2026-02-16",
     "weekEnd": "2026-02-22",
-    "notes": "Generated from retailer observations. Offer and regular prices aggregated per retailer.",
+    "notes": "Generated from retailer observations under official source policy.",
     "sources": [
       "https://www.kaufda.de/Angebote/Aldi-Nord/Monster-Energy",
       "https://www.kaufda.de/Angebote/Aldi-Sued/Monster-Energy",
       "https://www.kaufda.de/Angebote/Lidl/Monster-Energy",
       "https://www.kaufda.de/Angebote/Penny-Markt/Monster-Energy",
       "https://www.kaufda.de/Angebote/Netto-Marken-Discount/Monster-Energy"
-    ]
+    ],
+    "verificationMode": "official_only",
+    "sourcePolicyVersion": "1.0.0",
+    "observationStats": {
+      "inputTotal": 0,
+      "acceptedOfficial": 0,
+      "droppedUnknownRetailer": 0,
+      "droppedMissingSource": 0,
+      "droppedUntrustedSource": 0
+    }
   },
   "products": [
     {
@@ -62,20 +71,8 @@
       "productId": "monster_energy_500ml",
       "status": "unavailable",
       "currency": "EUR",
-      "lastUpdated": "2026-02-20T23:34:35.000Z",
-      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026).",
-      "regularPriceMinCents": 149,
-      "regularPriceMaxCents": 149,
-      "regularPriceLastVerifiedAt": "2026-02-20T23:34:35.000Z",
-      "regularPriceConfidence": "low",
-      "regularPriceSource": "https://www.supermarktcheck.de/product/49809-monster-energy",
-      "regularPriceObservations": [
-        {
-          "priceCents": 149,
-          "capturedAt": "2026-02-20T23:34:35.000Z",
-          "source": "https://www.supermarktcheck.de/product/49809-monster-energy"
-        }
-      ]
+      "lastUpdated": "2026-02-21T00:02:50.338837Z",
+      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026)."
     },
     {
       "id": "live_aldi_nord_kw8_2026",
@@ -83,20 +80,8 @@
       "productId": "monster_energy_500ml",
       "status": "unavailable",
       "currency": "EUR",
-      "lastUpdated": "2026-02-20T23:34:35.000Z",
-      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026).",
-      "regularPriceMinCents": 169,
-      "regularPriceMaxCents": 169,
-      "regularPriceLastVerifiedAt": "2026-02-20T23:34:35.000Z",
-      "regularPriceConfidence": "low",
-      "regularPriceSource": "https://www.supermarktcheck.de/product/57326-monster-energy-bei-aldi-nord",
-      "regularPriceObservations": [
-        {
-          "priceCents": 169,
-          "capturedAt": "2026-02-20T23:34:35.000Z",
-          "source": "https://www.supermarktcheck.de/product/57326-monster-energy-bei-aldi-nord"
-        }
-      ]
+      "lastUpdated": "2026-02-21T00:02:50.338837Z",
+      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026)."
     },
     {
       "id": "live_aldi_sued_kw8_2026",
@@ -104,20 +89,8 @@
       "productId": "monster_energy_500ml",
       "status": "unavailable",
       "currency": "EUR",
-      "lastUpdated": "2026-02-20T23:34:35.000Z",
-      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026).",
-      "regularPriceMinCents": 149,
-      "regularPriceMaxCents": 149,
-      "regularPriceLastVerifiedAt": "2026-02-20T23:34:35.000Z",
-      "regularPriceConfidence": "low",
-      "regularPriceSource": "https://www.supermarktcheck.de/product/67630-monster-energy-bei-aldi-sued",
-      "regularPriceObservations": [
-        {
-          "priceCents": 149,
-          "capturedAt": "2026-02-20T23:34:35.000Z",
-          "source": "https://www.supermarktcheck.de/product/67630-monster-energy-bei-aldi-sued"
-        }
-      ]
+      "lastUpdated": "2026-02-21T00:02:50.338837Z",
+      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026)."
     },
     {
       "id": "live_penny_kw8_2026",
@@ -125,20 +98,8 @@
       "productId": "monster_energy_500ml",
       "status": "unavailable",
       "currency": "EUR",
-      "lastUpdated": "2026-02-20T23:34:35.000Z",
-      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026).",
-      "regularPriceMinCents": 159,
-      "regularPriceMaxCents": 159,
-      "regularPriceLastVerifiedAt": "2026-02-20T23:34:35.000Z",
-      "regularPriceConfidence": "low",
-      "regularPriceSource": "https://www.supermarktcheck.de/product/57329-monster-energy-bei-penny-markt",
-      "regularPriceObservations": [
-        {
-          "priceCents": 159,
-          "capturedAt": "2026-02-20T23:34:35.000Z",
-          "source": "https://www.supermarktcheck.de/product/57329-monster-energy-bei-penny-markt"
-        }
-      ]
+      "lastUpdated": "2026-02-21T00:02:50.338837Z",
+      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026)."
     },
     {
       "id": "live_netto_kw8_2026",
@@ -146,20 +107,8 @@
       "productId": "monster_energy_500ml",
       "status": "unavailable",
       "currency": "EUR",
-      "lastUpdated": "2026-02-20T23:34:35.000Z",
-      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026).",
-      "regularPriceMinCents": 111,
-      "regularPriceMaxCents": 111,
-      "regularPriceLastVerifiedAt": "2026-02-20T23:34:35.000Z",
-      "regularPriceConfidence": "low",
-      "regularPriceSource": "https://www.supermarktcheck.de/product/57330-monster-energy-bei-netto-marken-discount",
-      "regularPriceObservations": [
-        {
-          "priceCents": 111,
-          "capturedAt": "2026-02-20T23:34:35.000Z",
-          "source": "https://www.supermarktcheck.de/product/57330-monster-energy-bei-netto-marken-discount"
-        }
-      ]
+      "lastUpdated": "2026-02-21T00:02:50.338837Z",
+      "note": "Diese Woche kein Monster-Energy-Angebot gefunden (Stand: 20.02.2026)."
     }
   ],
   "regions": [],
